@@ -1,7 +1,7 @@
 import Body from "./components/layout/Body";
 import Footer from "./components/layout/Footer";
 import Header from "./components/layout/Header";
-import { ChakraProvider, extendTheme } from "@chakra-ui/react";
+import { ChakraProvider } from "@chakra-ui/react";
 import theme from "./components/layout/theme";
 import React from "react";
 
